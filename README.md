@@ -14,8 +14,6 @@ Trained using Random Forest Classifier
 
 --Evaluation:
 Used accuracy, precision, recall, F1-score for performance
-from sklearn.metrics import classification_report
-print(classification_report(y_test, y_pred))
 Visualized confusion matrix to observe model predictions
 -The confusion matrix heatmap shows:
   True Positives (TP): correctly predicted positives
