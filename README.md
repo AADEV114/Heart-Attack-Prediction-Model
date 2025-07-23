@@ -15,6 +15,12 @@ Trained using Random Forest Classifier
 --Evaluation:
 Used accuracy, precision, recall, F1-score for performance
 Visualized confusion matrix to observe model predictions
+-The confusion matrix heatmap shows:
+  True Positives (TP): correctly predicted positives
+  True Negatives (TN): correctly predicted negatives
+  False Positives (FP): predicted positive, but actually negative
+  False Negatives (FN): predicted negative, but actually positive
+This helps you assess how well the model distinguishes between disease presence and absence.
 Analyzed feature importance to understand contributing medical parameters
 
 Final Insights:
