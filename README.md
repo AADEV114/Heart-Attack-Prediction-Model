@@ -20,9 +20,7 @@ Analyzed feature importance to understand contributing medical parameters
 Final Insights:
 The model successfully identifies key indicators of the disease.
 Features such as Troponin levels and CK-MB are typically significant in diagnosing cardiac conditions.
-
 The confusion matrix highlights how well the model balances false positives and false negatives—critical in medical diagnostics.
 
-🎯 Outcome:
-This model can serve as a basic decision-support tool in medical diagnostics, offering early insights based on patient vitals. It is an example of how data analytics can augment clinical expertise and improve early detection and resource allocation.
+--This model can serve as a basic decision-support tool in medical diagnostics, offering early insights based on patient vitals. It is an example of how data analytics can augment clinical expertise and improve early detection and resource allocation.
 
